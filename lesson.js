@@ -1,3 +1,7 @@
+//Introduction to Javascript
+
+//Excercise 1
+
 // Opening line
 console.log('It was love at first sight.');
 
@@ -7,3 +11,11 @@ console.log('The doctors were puzzled by the fact that it wasn\'t quite jaundice
 console.log('If it became jaundice they could treat it.');
 console.log('If it didn\'t become jaundice and went away they could discharge him.');
 /*console.log('But this just being short of jaundice all the time confused them.');*/
+
+
+//Excercise 2
+
+console.log('JavaScript')
+console.log(2011)
+console.log('Woohoo! I love to code! #codecademy')
+console.log(20.49)
