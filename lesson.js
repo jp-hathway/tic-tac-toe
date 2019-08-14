@@ -31,3 +31,6 @@ console.log(0.2708*100)
 
 console.log('Hello' + 'World')
 console.log('Hello'+ ' ' + 'World')
+
+//Exercise 5
+
