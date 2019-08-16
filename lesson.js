@@ -36,12 +36,12 @@ console.log('Hello'+ ' ' + 'World')
 let favoriteCountry = 'Japan'
 console.log(`Hello ${favoriteCountry}!`);
 
-console.log(Math.floor(Math.random() * 100);
+console.log(Math.floor(Math.random() * 100));
 
 //Exercise 6
 let hungerLevel = 7
 if (hungerLevel > 7) {
-  console.log('Time to eat!');
+    console.log('Time to eat!');
 } else {
-  console.log('We can eat later!');
+    console.log('We can eat later!');
 }
